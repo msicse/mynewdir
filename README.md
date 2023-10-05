@@ -1,0 +1,2 @@
+# mynewdir
+test directory
